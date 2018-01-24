@@ -69,9 +69,7 @@ jQuery(document).ready(function () {
         //available patterns
         window.patternClasses.push('pattern' + i);
     }
-    ;
-
-    switcherHTML += '</ul>';
+  switcherHTML += '</ul>';
     switcherHTML += '</div>';
     switcherHTML += '</div>';
 
@@ -228,7 +226,7 @@ var cookieClass = {
         }
 
     }
-}
+};
 
 var switcherClass = {
     switchBoxedWide: function (e) {
@@ -236,8 +234,7 @@ var switcherClass = {
         jQuery("#boxed_margin").toggleClass("hidden").find("input").prop("checked", false);
         jQuery(".for-toggle").toggleClass("hidden");
         jQuery("#canvas").toggleClass("boxed").removeClass(patternClasses.join(' '));
-        ;
-        jQuery("#box_wrapper").toggleClass("container").removeClass('top-bottom-margins');
+      jQuery("#box_wrapper").toggleClass("container").removeClass('top-bottom-margins');
         if (jQuery().isotope) {
             jQuery("#isotopeContainer").isotope("reLayout");
         }
@@ -313,4 +310,4 @@ var switcherClass = {
 
         cookieClass.toggleTrueOrFalseCookie('dark');
     }
-}
+};
