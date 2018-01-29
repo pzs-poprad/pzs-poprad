@@ -183,7 +183,7 @@
 }
 
 #primary-menu.dark ul ul > li.sub-menu:hover > a, #primary-menu.dark ul ul > li.sub-menu > a, .dark #primary-menu:not(.not-dark) ul ul > li.sub-menu:hover > a, .dark #primary-menu:not(.not-dark) ul ul > li.sub-menu > a {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/submenu-dark.png)
+    background-image: url(one-page/images/icons/submenu-dark.png)
 }
 
 #primary-menu.dark ul li .mega-menu-content ul.mega-menu-column:not(:first-child), .dark #primary-menu ul li .mega-menu-content ul.mega-menu-column:not(:first-child) {
@@ -346,7 +346,7 @@
 }
 
 .dark #page-title.page-title-pattern {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/pattern2.png)
+    background-image: url(one-page/images/pattern2.png)
 }
 
 .dark .portfolio-filter li a {
@@ -516,7 +516,7 @@
 }
 
 .dark .form-process, .dark .owl-carousel.owl-loading, .dark .preloader, .dark .preloader2 {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/preloader-dark.gif)
+    background-image: url(one-page/images/preloader-dark.gif)
 }
 
 .dark .comment-content .comment-author {
@@ -1239,12 +1239,12 @@ body #side-panel.dark #side-panel-trigger-close a, body.dark #side-panel #side-p
 }
 
 .dark .widget_recent_comments li {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/widget-comment-dark.png)
+    background-image: url(one-page/images/icons/widget-comment-dark.png)
 }
 
 .dark .widget_archive li a, .dark .widget_categories li a, .dark .widget_links li a, .dark .widget_meta li a, .dark .widget_nav_menu li a, .dark .widget_pages li a, .dark .widget_recent_comments li a, .dark .widget_recent_entries li a, .dark .widget_rss li a {
     color: #CCC;
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/widget-link-dark.png)
+    background-image: url(one-page/images/icons/widget-link-dark.png)
 }
 
 .dark .widget_archive li a:hover, .dark .widget_categories li a:hover, .dark .widget_links li a:hover, .dark .widget_meta li a:hover, .dark .widget_nav_menu li a:hover, .dark .widget_pages li a:hover, .dark .widget_recent_comments li a:hover, .dark .widget_recent_entries li a:hover, .dark .widget_rss li a:hover {
@@ -1881,7 +1881,7 @@ body #side-panel.dark #side-panel-trigger-close a, body.dark #side-panel #side-p
     }
 
     .dark #primary-menu:not(.not-dark) > .container > ul > li.sub-menu > a, .dark #primary-menu:not(.not-dark) > ul > li.sub-menu > a {
-        background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/submenu-dark.png)
+        background-image: url(one-page/images/icons/submenu-dark.png)
     }
 
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content ul ul, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content.grid-2 > ul, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content.grid-3 > ul, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content.grid-4 > ul, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content.grid-5 > ul, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content.style-2 li, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul ul, body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul ul li {

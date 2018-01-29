@@ -1355,7 +1355,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content, body.no-superfish
 }
 
 #primary-menu ul ul > li.sub-menu:hover > a, #primary-menu ul ul > li.sub-menu > a {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/submenu.png);
+    background-image: url(one-page/images/icons/submenu.png);
     background-position: right center;
     background-repeat: no-repeat
 }
@@ -1593,7 +1593,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
 }
 
 #primary-menu.sub-title.style-2 > div > ul > li, #primary-menu.sub-title > ul > li {
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/icons/menu-divider.png) right center no-repeat;
+    background: url(one-page/images/icons/menu-divider.png) right center no-repeat;
     margin-left: 1px
 }
 
@@ -2893,7 +2893,7 @@ body.side-panel-open .body-overlay {
 }
 
 body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overlay:hover {
-    cursor: url(http://canvashtml-cdn.semicolonweb.com/images/icons/close.png) 15 15, default
+    cursor: url(one-page/images/icons/close.png) 15 15, default
 }
 
 .slider-element {
@@ -3032,7 +3032,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner {
     width: 100%;
     height: 100%;
     margin: 0;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/pattern2.png)
+    background: url(one-page/images/pattern2.png)
 }
 
 .swiper_wrapper .swiper-slide {
@@ -3118,7 +3118,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner {
     top: 0;
     left: 0;
     z-index: 5;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/grid.png)
+    background: url(one-page/images/grid.png)
 }
 
 .video-placeholder {
@@ -3498,7 +3498,7 @@ body.stretched .container-fullwidth .breadcrumb {
 }
 
 #page-title.page-title-pattern {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/pattern.png);
+    background-image: url(one-page/images/pattern.png);
     background-repeat: repeat;
     background-attachment: fixed
 }
@@ -3508,7 +3508,7 @@ body.stretched .container-fullwidth .breadcrumb {
     text-shadow: none;
     border-bottom: none;
     background-color: transparent;
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/parallax/parallax-bg.jpg);
+    background-image: url(one-page/images/parallax-bg.jpg);
     background-attachment: fixed;
     background-position: 50% 0;
     background-repeat: no-repeat
@@ -7982,7 +7982,7 @@ body:not(.device-touch) .button.button-full strong {
     padding: 2px;
     z-index: -1;
     box-shadow: none;
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/iconalt.svg);
+    background-image: url(one-page/images/icons/iconalt.svg);
     background-position: center center;
     background-size: 100% 100%;
     -webkit-transition: -webkit-transform .5s, opacity .5s, background-color .5s;
@@ -8328,7 +8328,7 @@ body:not(.device-touch) .i-bordered, body:not(.device-touch) .i-circled, body:no
 }
 
 .i-alt {
-    background-image: url(http://canvashtml-cdn.semicolonweb.com/images/icons/iconalt.svg);
+    background-image: url(one-page/images/icons/iconalt.svg);
     background-position: center center;
     background-size: 100% 100%
 }
@@ -8464,7 +8464,7 @@ body:not(.device-touch) .i-bordered, body:not(.device-touch) .i-circled, body:no
     top: 0;
     left: 0;
     text-align: center;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/grid.png) rgba(0, 0, 0, .2)
+    background: url(one-page/images/grid.png) rgba(0, 0, 0, .2)
 }
 
 .i-overlay a {
@@ -10778,7 +10778,7 @@ blockquote.float-right {
 
 .owl-carousel.owl-loading {
     min-height: 100px;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/preloader.gif) center center no-repeat
+    background: url(preloader.gif) center center no-repeat
 }
 
 .owl-carousel .owl-refresh .owl-item {
@@ -10886,7 +10886,7 @@ blockquote.float-right {
     top: 50%;
     margin-left: -32px;
     margin-top: -32px;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/icons/play.png) no-repeat;
+    background: url(one-page/images/icons/play.png) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-transition: scale .1s ease;
@@ -11514,7 +11514,7 @@ label.error {
 }
 
 .fancy-title.title-dotted-border {
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/icons/dotted.png) center repeat-x
+    background: url(one-page/images/icons/dotted.png) center repeat-x
 }
 
 .before-heading {
@@ -11794,7 +11794,7 @@ body:not(.device-touch) #gotoTop {
     display: block;
     width: 100%;
     height: 100%;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/preloader.gif) center center no-repeat #FFF
+    background: url(preloader.gif) center center no-repeat #FFF
 }
 
 .preloader2 {
@@ -12224,12 +12224,12 @@ body:not(.device-touch) .tagcloud a {
 
 .widget_recent_comments li {
     display: block;
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/icons/widget-comment.png) left top no-repeat;
+    background: url(one-page/images/icons/widget-comment.png) left top no-repeat;
     padding: 4px 0 4px 20px
 }
 
 .widget_archive li a, .widget_categories li a, .widget_links li a, .widget_meta li a, .widget_nav_menu li a, .widget_pages li a, .widget_recent_comments li a, .widget_recent_entries li a, .widget_rss li a {
-    background: url(http://canvashtml-cdn.semicolonweb.com/images/icons/widget-link.png) left top no-repeat;
+    background: url(one-page/images/icons/widget-link.png) left top no-repeat;
     border: none !important;
     color: #444;
     font-size: 14px
